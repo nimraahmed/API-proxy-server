@@ -1,4 +1,4 @@
-# API-proxy-server
+# API Proxy Server
 API proxy server to hide the API key used to make a call to a third-party API using Node.js. Added rate limiting to avoid spamming and caching for improved performance 
 
 Generally, when we make a call to a public API (like the Open Weather API in this case), we can see the API key on the client side, like this:
